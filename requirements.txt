@@ -1,7 +1,7 @@
 pytesseract
 Pillow
-transformers
-torch
-opencv-python
-networkx
 matplotlib
+torch
+transformers
+networkx
+fpdf
